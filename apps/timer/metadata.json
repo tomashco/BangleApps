@@ -1,0 +1,24 @@
+{
+  "id": "timer",
+  "name": "My very first app",
+  "shortName": "Timer App",
+  "version": "0.01",
+  "description": "Just a simple timer",
+  "icon": "app.png",
+  "tags": "",
+  "supports": [
+    "BANGLEJS2"
+  ],
+  "readme": "README.md",
+  "storage": [
+    {
+      "name": "timer.app.js",
+      "url": "app.js"
+    },
+    {
+      "name": "timer.img",
+      "url": "app-icon.js",
+      "evaluate": true
+    }
+  ]
+}
